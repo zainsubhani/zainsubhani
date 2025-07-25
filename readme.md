@@ -13,7 +13,7 @@
 
 I'm a backend-focused software engineer with strong skills in REST APIs, cloud services (AWS), and real-time systems. I’m currently pursuing my MSc at **EPITA Paris**, where I specialize in scalable backend systems and automation.
 
-- 🔧 Skilled in **Python, JavaScript, FastAPI, Node.js**
+- 🔧 Skilled in **Python, JavaScript, FastAPI,Rust, Java , SpringBoot , Node.js**
 - ☁️ Hands-on with **AWS (Lambda, S3, EC2, DynamoDB)**, **Docker**, **MongoDB**, **PostgreSQL**
 - 💡 Passionate about **FinTech, AI**, and building secure, production-grade systems
 - 🔍 Actively freelancing on [Fiverr as a Top-Rated Seller](https://www.fiverr.com/sellers/offcoursezain/edit)
