@@ -1,6 +1,5 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-image-host.com/banner.jpg" alt="Zain Subhani Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Zain Subhani</h1>
@@ -26,12 +25,17 @@ I'm a backend-focused software engineer with strong skills in REST APIs, cloud s
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -40,6 +44,21 @@ I'm a backend-focused software engineer with strong skills in REST APIs, cloud s
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+
+---
+
+## 🌍 Freelancing
+
+🚀 I’m also an active **freelance full stack/back-end developer** working with clients globally to build:
+
+- ⚙️ Scalable backend systems with **Node.js, Express, and MongoDB**
+- 🔐 Secure API architectures with **JWT**, OAuth2, and role-based access control
+- 🧩 Custom automation tools in **Rust, Python**, and **Java**
+- ☁️ Cloud deployments on **AWS**, **Google Cloud**, and **Dockerized environments**
+
+🧾 Check out my Fiverr profile to collaborate:  
+👉 [fiverr.com/offcoursezain](https://www.fiverr.com/sellers/offcoursezain/edit)
 
 ---
 
