@@ -43,15 +43,22 @@ I'm a backend-focused software engineer with strong skills in REST APIs, cloud s
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 ---
@@ -120,6 +127,7 @@ I'm a backend-focused software engineer with strong skills in REST APIs, cloud s
 - ✅ Full Stack Web Development – Amazon
 - ✅ Data Structures & Algorithms – Amazon
 - ✅ AWS Cloud Practitioner Essentials
+- ✅ AWS Associate Developer
 - 🌐 Volunteer @ Paris Blockchain Week
 - 🌍 Delegate @ Global Business Symposium, USA
 
