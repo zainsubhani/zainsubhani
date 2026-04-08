@@ -1,115 +1,128 @@
-<!-- Banner -->
-<p align="center">
-</p>
-
 <h1 align="center">Hi 👋, I'm Zain Subhani</h1>
 <p align="center">
-  MSc Software Engineering @ EPITA | Backend Developer | API Engineer | Rust & Cloud Enthusiast
+  MSc Software Engineering @ EPITA | Backend Engineer | Distributed Systems | AI & Cloud Enthusiast
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a backend-focused software engineer with strong skills in REST APIs, cloud services (AWS), and real-time systems. I’m currently pursuing my MSc at **EPITA Paris**, where I specialize in scalable backend systems and automation.
+Backend-focused Software Engineer building **scalable, secure, and production-grade systems**.
 
-- 🔧 Skilled in **Python, JavaScript, FastAPI,Rust, Java , SpringBoot , Node.js**
-- ☁️ Hands-on with **AWS (Lambda, S3, EC2, DynamoDB)**, **Docker**, **MongoDB**, **PostgreSQL**
-- 💡 Passionate about **FinTech, AI**, and building secure, production-grade systems
-- 🔍 Actively freelancing on [Fiverr as a Top-Rated Seller](https://www.fiverr.com/sellers/offcoursezain/edit)
+Currently pursuing MSc at **EPITA Paris**, with hands-on experience designing APIs, real-time systems, and AI-powered platforms.
+
+* 🔧 Strong in **Python, TypeScript, Node.js, FastAPI, Java, Rust**
+* ☁️ Experience with **AWS (Lambda, S3, EC2, DynamoDB), Docker, CI/CD**
+* ⚡ Built systems handling **100+ data sources**, reducing manual work by **70%**
+* 🤖 Developed **AI-powered applications with LLM orchestration**
+* 🌍 Freelance developer working with global clients (Top-Rated Fiverr Seller)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+**Languages & Backend**
+Python • TypeScript • JavaScript • Java • Rust
+Node.js • Express • FastAPI • Spring Boot
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Frontend**
+React • Next.js
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+**Cloud & DevOps**
+AWS • Docker • GitHub Actions • Linux
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+**Databases**
+PostgreSQL • MongoDB • MySQL • Neo4j
 
 ---
 
-## 🌍 Freelancing
+## 🚀 Featured Projects
 
-🚀 I’m also an active **freelance full stack/back-end developer** working with clients globally to build:
+### 🎙️ AI-Powered Real-Time Voice Interview Platform (Flagship)
 
-- ⚙️ Scalable backend systems with **Node.js, Express, and MongoDB**
-- 🔐 Secure API architectures with **JWT**, OAuth2, and role-based access control
-- 🧩 Custom automation tools in **Rust, Python**, and **Java**
-- ☁️ Cloud deployments on **AWS**, **Google Cloud**, and **Dockerized environments**
+**Next.js • Firebase • Gemini (LLM) • Vapi • Real-Time Systems**
 
-🧾 Check out my Fiverr profile to collaborate:  
-👉 [fiverr.com/offcoursezain](https://www.fiverr.com/sellers/offcoursezain/edit)
+👉 Built to simulate real FAANG-style interviews with adaptive questioning
+
+* Built an **AI-driven voice interview platform** simulating real recruiter-style interviews
+* Integrated **LLM-powered dynamic question generation** (technical + behavioral)
+* Designed **real-time voice system** with **<2s response latency**
+* Implemented **context-aware follow-up questioning (multi-turn conversations)**
+* Engineered **session state management for continuous interactions**
+* Developed **secure authentication, interview history, and feedback pipelines**
+* Built responsive UI (dashboard + live session + feedback) → seamless UX
+* Designed extensible system supporting **roles, difficulty levels, interview types**
 
 ---
 
-## 🔨 Projects
+### 🤖 AI Metadata Automation Platform
+
+**Python • FastAPI • OpenCV • Hugging Face • AWS**
+
+* Built a **data pipeline processing product data from 100+ suppliers**
+* Automated metadata extraction using ML → **+50% accuracy improvement**
+* Reduced manual processing by **70%**
+* Designed modular services for scalable ingestion & transformation
+* Developed monitoring dashboard for pipeline validation
+
+---
 
 ### 🧱 EPITA Building Management System (BMS)
 
-> Node.js, Express, MongoDB, Socket.io, Swagger, JWT  
-> – Scalable REST API with real-time notifications and 90%+ test coverage  
-> – JWT-secured multi-role access, structured logging, and Swagger documentation  
-> – Integrated CORS, Helmet, input sanitization, and Docker for secure deployment
+**Node.js • Express • MongoDB • Socket.io • Docker • JWT**
 
-### 🐦 Twitter Clone Backend API
+* Designed a **scalable REST API + real-time notification system**
+* Implemented **event-driven architecture using WebSockets**
+* Built **secure multi-role authentication (JWT + RBAC)**
+* Achieved **90%+ test coverage** → improved reliability
+* Integrated security layers (Helmet, CORS, validation)
+* Dockerized system for consistent deployment
 
-> Node.js, Express.js, MongoDB, Docker, JWT  
-> – RESTful backend for user auth, tweets, likes, followers  
-> – Role-based access with access/refresh tokens and secure Dockerized deployment  
-> – Swagger documented, CORS-configured, hot-reloading setup
+---
+
+### 🐦 Twitter Clone Backend (Production-Ready API)
+
+**Node.js • MongoDB • Docker • JWT**
+
+* Engineered **REST API for tweets, likes, and social graph features**
+* Implemented **access + refresh token authentication flow**
+* Designed scalable database models for high read/write workloads
+* Optimized queries → improved API performance
+* Fully documented with Swagger
+
+---
+
+### 🦀 Rust Systems Utilities
+
+**Rust • CLI • Systems Programming**
+
+* Built CLI tools for **file processing & data transformation**
+* Leveraged Rust ownership model → **memory-safe & high-performance systems**
+* Implemented idiomatic error handling (`Result`, `Option`)
+* Designed modular and reusable components
+
+---
 
 ### ☕ Java Quiz Application
 
-> Java, JUnit, Maven, OOP  
-> – Modular quiz system with clean OOP and high unit test coverage  
-> – Automated build with Maven and documented architecture
+**Java • JUnit • Maven**
 
-### 🦀 Rust File Size Converter
+* Developed modular system using **clean OOP architecture**
+* Increased reliability via **unit testing (JUnit)**
+* Automated builds with Maven
 
-> Rust, Pattern Matching, Type Safety  
-> – Converts byte values to KB/MB/GB with idiomatic Rust code  
-> – Unit tested, memory-safe, documented utility
+---
 
-### 📄 Rust File Reader Utility
+## 🌍 Freelancing Experience
 
-> Rust CLI Tool  
-> – Reads and processes text files line by line  
-> – Safe memory handling with `BufReader`, Result, Option, and modular architecture
+🚀 Delivered solutions for international clients:
+
+* ⚙️ Scalable backend systems (Node.js, FastAPI)
+* 🔐 Secure authentication (JWT, OAuth2, RBAC)
+* ☁️ Cloud-native deployments (AWS + Docker)
+* 🧠 Automation tools using Python & Rust
+
+👉 Fiverr: https://www.fiverr.com/sellers/offcoursezain/edit
 
 ---
 
@@ -122,35 +135,42 @@ I'm a backend-focused software engineer with strong skills in REST APIs, cloud s
 
 ---
 
-## 🎓 Certifications
+## 🎯 What I’m Currently Focused On
 
-- ✅ Full Stack Web Development – Amazon
-- ✅ Data Structures & Algorithms – Amazon
-- ✅ AWS Cloud Practitioner Essentials
-- ✅ AWS Associate Developer
-- 🌐 Volunteer @ Paris Blockchain Week
-- 🌍 Delegate @ Global Business Symposium, USA
+* 📈 Mastering **System Design & Distributed Systems**
+* 🤖 Building **AI-powered backend systems (RAG, agents, automation)**
+* ☁️ Deep diving into **AWS & cloud architecture**
+* 🦀 Writing **high-performance systems in Rust**
 
 ---
 
-## 📫 Contact & Freelance
+## 🎓 Certifications
 
-- 🌐 Fiverr: [fiverr.com/offcoursezain](https://www.fiverr.com/sellers/offcoursezain/edit)
-- 💼 LinkedIn: [linkedin.com/in/zainsubhani-dev](https://www.linkedin.com/in/zainsubhani-dev)
-- 💻 GitHub: [github.com/zainsubhani](https://github.com/zainsubhani)
-- 📧 Email: [zainsubhanidev@gmail.com](mailto:zainsubhanidev@gmail.com)
+* AWS Cloud Practitioner
+* AWS Developer Associate
+* Data Structures & Algorithms – Amazon
+* Full Stack Development – Amazon
+
+---
+
+## 📫 Contact
+
+* 💼 LinkedIn: https://www.linkedin.com/in/zainsubhani-dev
+* 💻 GitHub: https://github.com/zainsubhani
+* 📧 Email: [zainsubhanidev@gmail.com](mailto:zainsubhanidev@gmail.com)
 
 ---
 
 ## 🇫🇷 Version Française
 
-Bonjour 👋 Je suis **Zain Subhani**, étudiant en MSc Software Engineering à **EPITA Paris**. Je suis développeur backend passionné par les systèmes évolutifs, les API sécurisées et l'automatisation cloud.
+Bonjour 👋 Je suis **Zain Subhani**, étudiant en MSc Software Engineering à **EPITA Paris**.
 
-- 🔧 Spécialisé en **Node.js, Python, MongoDB, AWS, FastAPI**
-- 🧱 Projets réalisés : système de gestion d'immeuble, clone Twitter API, module Rust
-- 🎯 Objectif : créer des systèmes fiables, performants et maintenables
-- 📬 Me contacter : [zainsubhanidev@gmail.com](mailto:zainsubhanidev@gmail.com)
+* 🔧 Spécialisé en backend (**Node.js, Python, AWS, FastAPI**)
+* ⚡ Expérience dans les systèmes scalables et sécurisés
+* 📊 Automatisation ayant réduit le travail manuel de **70%**
+* 🤖 Développement d'applications AI (LLM, systèmes temps réel)
+* 🎯 Objectif : construire des systèmes distribués performants
 
 ---
 
-_“Code with purpose, deploy with confidence, and learn endlessly.”_
+*“Build systems that scale. Write code that lasts.”*
