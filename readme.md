@@ -15,14 +15,13 @@
 </p>
 
 ---
+## 🧠 About Me
 
-## ⚡ Key Highlights
+Software Engineer specializing in **AI-powered systems, real-time architectures, and scalable backend infrastructure**.
 
-- Built AI systems processing **100+ data sources**
-- Reduced manual workflows by **70%**
-- Designed real-time systems with **<2s latency**
-- Developed **LLM-powered applications (agents, voice AI, automation)**
-- Experience across **backend, cloud, and distributed systems**
+I build production-grade applications leveraging **LLMs, distributed systems, and cloud-native technologies**, with a strong focus on performance, reliability, and automation.
+
+My work spans **end-to-end system design** — from data pipelines and backend services to intelligent AI-driven features that reduce manual workflows and enable smarter decision-making.
 
 ---
 
@@ -38,17 +37,36 @@
 ## 🛠️ Tech Stack
 
 ### Backend & Languages
-Python • TypeScript • Node.js • FastAPI • Java • Rust  
+Python • TypeScript • JavaScript • Java • Rust  
+Node.js • Express.js • FastAPI • REST APIs • MVC Architecture  
+
+### AI / LLM Engineering
+OpenAI API • Google Gemini • Vapi  
+Prompt Engineering • RAG-like Pipelines • LLM Orchestration  
+
+### Frontend
+React • Next.js • HTML • CSS  
 
 ### Cloud & DevOps
-AWS • Docker • GitHub Actions • Linux  
+AWS (EC2, S3, Lambda) • Docker • CI/CD (GitHub Actions)  
 
 ### Databases
-PostgreSQL • MongoDB • MySQL • Neo4j  
+PostgreSQL • MongoDB • MySQL • pgvector  
 
----
+### Testing & Quality
+Jest • JUnit • Unit & Integration Testing • TDD  
+
+### Tools & Practices
+Git • Swagger / OpenAPI • Agile (SCRUM) • Code Reviews • Debugging  
 
 ## 🚀 Featured Projects
+
+### 🏥 Gemma4 Google Hackathon Offline AI Clinical Downtime Platform
+- Built offline-first clinical decision system (Gemma LLM)
+- Enabled semantic search with pgvector
+- Generated structured triage recommendations
+
+👉 [View Project](https://github.com/zainsubhani/Hackathon_Gemma4_BlackoutCare)
 
 ### 🎙️ AI-Powered Voice Interview Platform
 
@@ -76,12 +94,7 @@ Real-time AI system simulating recruiter-style interviews.
 
 ## 📦 More Projects
 
-### 🏥 Gemma4 Google Hackathon Offline AI Clinical Downtime Platform
-- Built offline-first clinical decision system (Gemma LLM)
-- Enabled semantic search with pgvector
-- Generated structured triage recommendations
 
-👉 [View Project](https://github.com/zainsubhani/Hackathon_Gemma4_BlackoutCare)
 
 ---
 
