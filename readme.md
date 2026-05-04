@@ -58,19 +58,11 @@ Real-time AI system simulating recruiter-style interviews.
 - Designed **multi-turn LLM conversations**
 - Implemented adaptive questioning + session memory
 
-👉 [View Project](#)
+👉 [View Project](https://github.com/zainsubhani/Prep_Wise_VoiceAgent)
 
 ---
 
-### 🤖 AI Metadata Automation Platform
 
-- Processed data from **100+ suppliers**
-- Improved accuracy by **50%**
-- Reduced manual work by **70%**
-
-👉 [View Project](#)
-
----
 
 ### 🧱 AI Observability & Incident Intelligence Platform
 
@@ -78,18 +70,18 @@ Real-time AI system simulating recruiter-style interviews.
 - Enabled **real-time anomaly detection**
 - Designed scalable event-driven backend
 
-👉 [View Project](#)
+👉 [View Project](https://github.com/zainsubhani/Opsyra-AI-Powered-Observability-Incident-Intelligence)
 
 ---
 
 ## 📦 More Projects
 
-### 🏥 Offline AI Clinical Downtime Platform
+### 🏥 Gemma4 Google Hackathon Offline AI Clinical Downtime Platform
 - Built offline-first clinical decision system (Gemma LLM)
 - Enabled semantic search with pgvector
 - Generated structured triage recommendations
 
-👉 [View Project](#)
+👉 [View Project](https://github.com/zainsubhani/Hackathon_Gemma4_BlackoutCare)
 
 ---
 
@@ -98,7 +90,7 @@ Real-time AI system simulating recruiter-style interviews.
 - Implemented JWT auth with access/refresh tokens
 - Optimized queries for high performance
 
-👉 [View Project](#)
+👉 [View Project](https://github.com/zainsubhani/EPITA_TwitterClone)
 
 ---
 
@@ -107,16 +99,10 @@ Real-time AI system simulating recruiter-style interviews.
 - Leveraged Rust for memory-safe performance
 - Designed reusable modular components
 
-👉 [View Project](#)
+👉 [View Project](https://github.com/zainsubhani/Rust_SocialAppAxum)
 
 ---
 
-### ☕ Java Quiz Application
-- Built modular system using clean OOP design
-- Implemented testing with JUnit
-- Automated builds using Maven
-
-👉 [View Project](#)
 
 ---
 
