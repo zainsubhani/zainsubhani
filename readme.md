@@ -128,7 +128,7 @@ Delivered production-grade systems for international clients:
 - Cloud deployments (AWS + Docker)
 - AI automation tools
 
-👉 https://www.fiverr.com/sellers/offcoursezain/edit
+👉 https://www.fiverr.com/s/jjB85Wo
 
 ---
 
