@@ -222,15 +222,32 @@ Providing software development services to international clients.
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainsubhani&show_icons=true&theme=tokyonight"
-    alt="Zain Subhani GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=zainsubhani&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainsubhani&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    height="170"
   />
 </p>
 
+### 🔥 Contribution Streak
+
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainsubhani&layout=compact&theme=tokyonight"
-    alt="Most Used Languages"
+    src="https://streak-stats.demolab.com?user=zainsubhani&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zainsubhani&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
